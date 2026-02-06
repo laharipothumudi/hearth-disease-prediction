@@ -4,7 +4,7 @@
 
 **Health metrices**:  Heart Disease Prediction
 
-**Problem Understanding**
+**Problem Understanding:**
 Heart disease is one of the leading causes of mortality worldwide. Early detection plays a crucial role in reducing risk and improving patient outcomes.
 The goal of this project is to build a machine learning model that predicts whether a person is at risk of heart disease based on historical health metrics such as age, blood pressure, cholesterol levels, fasting blood sugar, heart rate, and other clinical indicators.
 
@@ -19,7 +19,7 @@ The prediction task is a binary classification problem, where:
 
 The objective is not only to achieve good performance but also to understand feature importance, model behavior, and real-world interpretability, which is critical in healthcare-related applications.
 
-**Dataset Feature Description**
+**Dataset Feature Description:**
 
 age – Age of the patient in years.
 
