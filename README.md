@@ -105,6 +105,19 @@ Provides feature importance for better inference.
 
 Both models were trained on the same processed dataset for fair comparison.
 
+
+**Support Vector Machine (SVM):**
+
+Effective in high-dimensional feature spaces.
+
+Maximizes the margin between classes for better generalization.
+
+Robust to overfitting, especially in small and medium datasets.
+
+Works well when classes are clearly separable.
+
+Suitable for binary classification problems.
+
 **Results & Evaluation Metrics:**
 
 The models were evaluated using the following metrics:
